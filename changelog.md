@@ -6,3 +6,4 @@ Created Change log to document changes
 Added frog pic to the page
 Tool tip enabled
 Added anchor tags and controller
+Changed actor display
